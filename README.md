@@ -1,0 +1,26 @@
+### Hi there 👋
+
+## I am Aman Khalid a Gamer and a Software Developer
+- :school: Im a Master's student at [St. Louis University](https://www.slu.edu/index.php)
+- :notebook: Checkout my tech blogs: [blogs](https://www.amankhalid.com)
+- 🔭 I’m currently working on **Privacy preserving in contact tracing**
+- 🌱 I’m currently learning **Probabilistic Datastructures, OpenStack, and Apache Spark**
+- 👯 I’m looking to collaborate on Backend Projects
+- 🤔 I’m looking for help with [THIS](https://www.izotope.com/en/learn/beat-making-101-how-to-make-a-beat.html)
+- 💬 Ask me about Distributed Systems and Cloud Computing
+- 📫 How to reach me: [contact](https://www.amankhalid.com)
+- ⚡ Fun fact: Find me on [Steam](https://store.steampowered.com/)
+<!--
+**amnox/amnox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
