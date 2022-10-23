@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ## I am Aman Khalid a Gamer and a Software Developer
-- :school: Im a Master's student at [St. Louis University](https://www.slu.edu/index.php)
 - :notebook: Checkout my tech blogs: [blogs](https://www.amankhalid.com)
 - 🔭 I’m currently working on **Privacy preserving in contact tracing**
 - 🌱 I’m currently learning **Probabilistic Datastructures, OpenStack, and Apache Spark**
