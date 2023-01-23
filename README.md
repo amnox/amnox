@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 ## I am Aman Khalid a Gamer and a Software Developer
-- :notebook: Checkout my tech blogs: [blogs](https://www.amankhalid.com)
-- 🔭 I’m currently working on **Privacy preserving in contact tracing**
-- 🌱 I’m currently learning **Probabilistic Datastructures, OpenStack, and Apache Spark**
+- :notebook: Checkout my tech blogs: [blogs](https://amankhalid.com/)
 - 👯 I’m looking to collaborate on Backend Projects
 - 🤔 I’m looking for help with [THIS](https://www.izotope.com/en/learn/beat-making-101-how-to-make-a-beat.html)
 - 💬 Ask me about Distributed Systems and Cloud Computing
-- 📫 How to reach me: [contact](https://www.amankhalid.com)
+- 📫 How to reach me: [contact](https://amankhalid.com/)
 - ⚡ Fun fact: Find me on [Steam](https://store.steampowered.com/)
 <!--
 **amnox/amnox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
